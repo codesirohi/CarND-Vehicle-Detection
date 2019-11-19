@@ -80,4 +80,4 @@ The performance of the pipeline is not great and can be improved. Deep Neural Ne
 
 Since this car detection approach is based on camera it's prone to usual challenges with this kind of sensor (bad visibility, reflections, etc.).
 
-Project as usual can be found on my [Github](https://github.com/bdjukic/CarND-Vehicle-Detection) profile.
+
